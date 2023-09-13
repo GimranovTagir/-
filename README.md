@@ -41,7 +41,7 @@
   <li>Итог №5.Удалось отредактировать личное событие</li>
   <li>Итог №6.Удалось удалить личное событие.</li>
 </ol>
-![image](https://github.com/GimranovTagir/-/assets/144915431/5f81f721-abe7-4480-b9a6-5b0aa1b6320b)
+![image](https://github.com/GimranovTagir/-/assets/144915431/125b0a26-b0c8-4db9-b82d-db2f24a05af0)
 
 <p>По найденым багам были составленны баг - репорты посмотреть можно тут: https://qae-bag-reports.atlassian.net/jira/software/c/projects/OO1/issues </p> 
 > <p> логин: blacknigga87@mail.ruu</p>

@@ -43,9 +43,12 @@
 </ol>
 ![image](https://github.com/GimranovTagir/-/assets/144915431/125b0a26-b0c8-4db9-b82d-db2f24a05af0)
 
+
 <p>По найденым багам были составленны баг - репорты посмотреть можно тут: https://qae-bag-reports.atlassian.net/jira/software/c/projects/OO1/issues </p> 
+<ol>
 > <p> логин: blacknigga87@mail.ruu</p>
 > <p> пароль: 000DthP@$$ </p>
+</ol>
 <br> 
 
 <p> Проект 2: тест кабинета учителя в приложении Skyeng</p>

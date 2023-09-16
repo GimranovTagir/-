@@ -2,7 +2,7 @@
 
 ## Обо мне 
 
-Привет! Меня зовут [Тагир](https://t.me/TagirSilver), я начинающий тестировщик. <br>
+Привет! Меня зовут [Тагир](https://t.me/TagirSilver), я начинающий тестировщик<div id="header" align="center"><img src="https://media.giphy.com/media/PK1YQhAoBOpP2/giphy.gif" width="100"/></div><br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
 

@@ -42,5 +42,5 @@
 
 
 ## Контактная информация
-- Email: gimranov.tagir@bk.ru (https://img.shields.io/badge/mail)
+- Email: [gimranov.tagir@bk.ru](https://mail.ru/)
 

@@ -1,10 +1,10 @@
 # Портфолио: инженер по тестированию
 
-## Обо мне 
-
-Привет! Меня зовут [Тагир](https://t.me/TagirSilver), я начинающий тестировщик<div id="header" align="center"><img src="https://media.giphy.com/media/PK1YQhAoBOpP2/giphy.gif" width="100"/></div><br>
-В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
-<br>
+# Привет! Меня зовут [Тагир](https://t.me/TagirSilver),<div id="header" align="center"><img src="https://media.giphy.com/media/PK1YQhAoBOpP2/giphy.gif" width="100"/></div><br>
+##Обо мне
+Начинающий тестировщик.<br>
+Я живу в городе Уфа столице Республики Башкортостан (Россия).<br>
+В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.<br>
 
 ## Навыки и технологии
 ``Jira``, ``qase.io``,``SQL``,`` Postman``,``Swagger``, ``Trello``, <br>

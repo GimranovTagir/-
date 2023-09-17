@@ -1,7 +1,7 @@
 # Портфолио: инженер по тестированию
+# Привет! Меня зовут [Тагир](https://t.me/TagirSilver) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 
-# Привет! Меня зовут [Тагир](https://t.me/TagirSilver),<div id="header" align="center"><img src="https://media.giphy.com/media/PK1YQhAoBOpP2/giphy.gif" width="100"/></div><br>
-##Обо мне
+## Обо мне <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 Начинающий тестировщик.<br>
 Я живу в городе Уфа столице Республики Башкортостан (Россия).<br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.<br>
